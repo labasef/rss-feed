@@ -5,12 +5,12 @@ Provide URLs from the command line or in the rss.yaml file and get the news on y
 
 ## Dependencies
 
-feedparser==6.0.10
-pyaml==21.10.1
+	feedparser==6.0.10
+	pyaml==21.10.1
 
 ## Usage: 
 
-rss_feed.py [-h] [-s SOURCE] [-f FILE] [url]
+	rss_feed.py [-h] [-s SOURCE] [-f FILE] [url]
 
 A simple rss feed consumer
 
