@@ -1,0 +1,21 @@
+LEPARISIEN:
+        - "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+        - "https://feeds.leparisien.fr/leparisien/rss/politique"
+        - "https://feeds.leparisien.fr/leparisien/rss/economie"
+        - "https://feeds.leparisien.fr/leparisien/rss/international"
+        - "https://feeds.leparisien.fr/leparisien/rss/sports"
+        - "https://feeds.leparisien.fr/leparisien/rss/culture-loisirs"
+        - "https://feeds.leparisien.fr/leparisien/rss/immobilier"
+        - "https://feeds.leparisien.fr/leparisien/rss/environnement"
+        - "https://feeds.leparisien.fr/leparisien/rss/societe"
+        - "https://feeds.leparisien.fr/leparisien/rss"
+
+LEMONDE:
+        - "https://www.lemonde.fr/rss/une.xml"
+
+FRANCE24:
+        - "https://www.france24.com/fr/rss"
+        - "https://www.france24.com/fr/france/rss"
+
+FRANCETVINFO:
+        - "https://www.francetvinfo.fr/titres.rss"
